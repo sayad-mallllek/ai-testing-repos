@@ -1,0 +1,3 @@
+# Warranty for manufacturing defects
+
+Trailhead gear has a fictional one year limited warranty against manufacturing defects, measured from delivery. A broken seam that failed under normal intended use may qualify. Ordinary wear, accidental damage, misuse, burns and damage from incorrect washing are excluded. Keep proof of purchase and photographs of the defect. Support reviews the evidence and decides whether repair, replacement or refund is appropriate. The assistant can explain the policy but cannot approve a claim or guarantee its outcome. A warranty claim is different from an unused-item return. Check the returns policy for its separate 30 day window.

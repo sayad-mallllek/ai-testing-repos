@@ -1,0 +1,30 @@
+[project]
+name = "ai-testing-repos"
+version = "0.1.0"
+description = "A workspace for independent FastAPI AI experiments"
+requires-python = ">=3.12,<3.15"
+dependencies = ["ai-shared"]
+
+[tool.uv]
+package = false
+
+[tool.uv.workspace]
+members = ["apps/*", "packages/*"]
+
+[tool.uv.sources]
+ai-shared = { workspace = true }
+
+[dependency-groups]
+dev = ["httpx>=0.28,<1", "pytest>=8,<10", "pytest-asyncio>=1,<2", "ruff>=0.14,<1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+extend-exclude = ["templates"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]

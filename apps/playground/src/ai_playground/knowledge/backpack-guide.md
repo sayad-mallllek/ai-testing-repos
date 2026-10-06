@@ -1,0 +1,5 @@
+# Choosing and fitting a hiking backpack
+
+A 20 liter backpack is a useful starting size for day hikes with water, layers, food and basic essentials. A 45 liter backpack can suit an overnight trip when equipment packs compactly. Capacity is a volume, not a promise that every equipment list will fit. Bulky sleeping systems and extra clothing can require more room. Torso length and hip belt fit matter more than assuming a backpack matches your height. Adjust the shoulder straps and hip belt with a realistic load; a well fitted hip belt helps transfer some load to your hips.
+
+Put heavier items close to your back and keep frequently needed items accessible. A rain cover helps protect a pack but does not make every seam waterproof. Pack electronics and critical dry clothing in suitable dry protection. A hydration sleeve holds a compatible reservoir; it does not mean the reservoir is included. Read the product description for included accessories. The store offers different packs, so use the product database to compare stock, capacity and price. This guide gives general advice and intentionally avoids inventory facts that could become stale.
